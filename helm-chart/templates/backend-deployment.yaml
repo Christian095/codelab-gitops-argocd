@@ -20,4 +20,3 @@ spec:
         ports:
         - containerPort: {{ .Values.backend.containerPort }}
           name: http
- 
